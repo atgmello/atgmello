@@ -20,7 +20,6 @@ I have a special interested in Data Science, Data Engineering and Analytics Engi
 ![Julia](https://img.shields.io/badge/-Julia-05122A?logo=julia&style=flat)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAA8CAMAAAD43KLwAAABy1BMVEUAAAAzmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdszmdv%2F%2F%2F%2BPJ5xuAAAAl3RSTlMAAAQYN12DpcHX5%2FL5%2FRA6cqjR6wUzgcjxA0AflO%2F%2B3MWtl4R2a2ZjPMuNXBwMO%2FO8bi8LHsf2q0WG3VoH2uA9%2BpHtW4DNbNuZUiG2hyMTCQG91eO%2FrqGSj2gdfNL7aVei%2BAJKf7DU7BYuSWWyusAKWe5%2BF9mWUAbeszgRCOHPno6M%2FBpNgtYwTLTDahLirJ%2BVkBmkS6fCwokPDwAAAy1JREFUeNqMjwMCW0EUADe2baexbdvszfa63ZfmxZrke2ZBznAALo8vEIrEEqlMrqAKuUwqEYuEAj6PywEIgrpSpdZodXL6iFyn1ahVSozQ1xuMJjN9j9lkNOixYReLVaSj39CJrBZIILDZHfjaaXa5PV6fPxD8Ewz4fV6P22V24keH3QYJhxMK4yjiSJQfi1s4VyzxGD8aEeMKwiEoEi4KJFPpTPaqnpaLZDPpVJICrgSH5PKUUSiWsqg%2BcI5KxQKI%2BRwpwzIr1dpL%2B7aqVSuw0TKps0uj%2BdHHptlgbp202Fn4xcdGyNwWoYz2j0Ub5FPR6f60qm7nUlBHj8f5EHEAXs9BsQD6AxvnP882YBv0QcMCcA5H40mN84raZDwaOulNgbQa05lANV8sLSsOsLIsF3OVYDZttFDBYr2hiDO51e72B%2B%2Fx79F72O%2B026STIpv1pfinyKjomFgCiT02JjoqEq4jDhgS8QnuiTiVJ7onxANDMw5JBxAk6SSnpKal86Bn2vS01JRknSRGRlQd0EAUycjMyk6RYc%2FJDckLyc1hl0nJzsrMEIEGO6DYeuCNIIqiAFzbNt5G06C226i2zWBt23Z%2Fb4PVHa%2FDYXS%2Bd%2B8Bf8DzcF61cSY826g6h%2BeF8AeMrBIGCv%2FIRaKIlURRhkSxRMooUSoRZyoZw14XaCUuvGJjeIkyuWJYSSpROayQy8glqtR165pDrW4wOa102kPNep1aRZB43Zi6bx3QGy6WjSMms2nEuHxh0A%2B0pt41XqfzGP7%2BtTBItPx%2BD4MErev1a5AUwLVWv24lSBxcsNnVjr0d3Mc7ew613bYwSCFRKXW6Xu2o033R4Gm4cHci%2B6vLKVWSSgSiPnt0wnmhrucT6KKSSEijjBK%2FWUj8FgMlmJdBohcjzMRNRCMRbVJIdHP2NYe%2Bs5TEM9%2BhZp%2FjppfY7DdcBIKh8FQ4FAxcGPzNFBIlLCRKoMSIKDpOI3E8KoqQSHTZeaQSeXYXpcQe6VzsoQ%2FF1TOCP8GMOo76HmJzUuqZCCQKMySCmQi2M4VEuJ2zbwDZt4zsm0z2bSn7RpZ968u%2BWWbfXrNvyNm38H9PHuQXqL2XYAAAAABJRU5ErkJggg%3D%3D&style=flat&link=https://www.freeiconspng.com/downloadimg/11368)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-<!--![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;-->
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)\
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
@@ -37,6 +36,7 @@ I have a special interested in Data Science, Data Engineering and Analytics Engi
 ### 📈 My Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atgmello&show_icons=true&theme=jolly&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atgmello&theme=jolly&hide=jupyter%20notebook,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atgmello&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
 
 <!--
 ### 🤖 about_me.yml
@@ -55,7 +55,6 @@ looking_to_collab_on:
   - data_projects
 ```
 
-
 - 🔭 I’m currently working on improving my data science/engineering skills
 - 🌱 I’m currently learning [Kedro](https://github.com/quantumblacklabs/kedro)
 - 👯 I’m looking to collaborate on impactful data projects
@@ -67,8 +66,8 @@ looking_to_collab_on:
 
 ### 📫 You can reach me at
 
-<a href="https://www.linkedin.com/in/atgmello"><img alt="LinkedIn" title="André Mello" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&link=https://www.linkedin.com/in/atgmello"/></a>&nbsp;
-<a href="https://atgmello.github.io/en/"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Blog-05122A?style=flat&logo=google-chrome&link=https://atgmello.github.io/en/"/></a>&nbsp;
-<a href="https://atgmello.github.io/en/"><img alt="Email" title="Email" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&link=mailto:andre.tgmello@gmail.com"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/atgmello"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/%2Fin%2Fatgmello-LinkedIn-05122A?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/atgmello"/></a>&nbsp;
+<a href="https://atgmello.github.io/en/"><img alt="Website" title="Website" src="https://img.shields.io/badge/%40gmello%27s%20base-Website-05122A?style=flat-square&logo=google-chrome&link=https://atgmello.github.io/en/"/></a>&nbsp;
+<a href="mailto:andre.tgmello@gmail.com"><img alt="Email" title="Email" src="https://img.shields.io/badge/andre.tgmello%40gmail.com-Email-05122A?style=flat-square&logo=gmail&link=mailto:andre.tgmello@gmail.com"/></a>&nbsp;
 
-#### 🤓 Don't forget to check my pinned repositories!
+#### 🤓 Don't forget to check my pinned repositories below!
