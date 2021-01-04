@@ -1,3 +1,7 @@
+<img src="/images/data-idea-banner.jpeg" alt="Data" width="1000"/>
+
+> Credit: [Franki Chamaki](https://unsplash.com/photos/1K6IQsQbizI)
+
 ### 👋 Hello, world!
 
 ### 🧑‍💻 About Me
