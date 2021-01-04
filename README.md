@@ -12,7 +12,7 @@ My name is André Mello. I'm a MSc. and software developer based in São Paulo, 
 
 I'm passionate about all things data and Open Source.
 
-I have a special interested in Data Science, Data Engineering and Analytics Engineering.
+My main interests are Data Science, Data Engineering and Analytics Engineering.
 
 ### 🧰 My Techstack
 
